@@ -16,4 +16,6 @@ Capital Market Line (CML) is the new Efficient Frontier with all efficient Portf
 -> MSRP also called Market Portfolio (MP).
 
 
-![Uploading image.png…]()
+<img width="924" alt="image" src="https://github.com/user-attachments/assets/b3980b01-8121-4ea9-8409-a6c61365392e">
+
+
